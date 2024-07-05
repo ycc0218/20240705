@@ -9,6 +9,7 @@ xxx
 
 for (i=0;i<5;i++) {
     i=i+12;
+   z=x+w2;
     a=b+c;
 }
 
